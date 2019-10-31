@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson2_Final</string>
+    <string name="btn_wording">Enter</string>
+    <string name="text_wording">My first APP</string>
+</resources>
